@@ -4,7 +4,7 @@ This project analyzes e-commerce sales data using **SQL** and visualizes insight
 It provides a full sales performance overview, including KPIs, sales trends, top brands, and customer distribution by city.
 
 ---
-![E-commerce Dashboard](images.png)
+![E-commerce Dashboard](image.png)
 
 ## 📊 Dashboard Link
 👉 [View Dashboard on Tableau Public](https://public.tableau.com/app/profile/sultan.asrag.guzel/viz/E-commerceSalesPerformanceOverview/Dashboard1)
